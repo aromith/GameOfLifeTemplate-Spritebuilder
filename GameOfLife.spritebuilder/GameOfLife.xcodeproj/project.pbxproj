@@ -131,14 +131,14 @@
 		B737893C1807616C0076A88C /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				B737893D1807617C0076A88C /* AppDelegate.h */,
-				B737893E1807617C0076A88C /* AppDelegate.m */,
 				B7378992180767190076A88C /* MainScene.h */,
 				B7378993180767190076A88C /* MainScene.m */,
 				F8C5FB631A03569F00DD3C9C /* Creature.h */,
 				F8C5FB641A03569F00DD3C9C /* Creature.m */,
 				F8C5FB5F1A0355F800DD3C9C /* Grid.h */,
 				F8C5FB601A0355F800DD3C9C /* Grid.m */,
+				B737893D1807617C0076A88C /* AppDelegate.h */,
+				B737893E1807617C0076A88C /* AppDelegate.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
